@@ -14,5 +14,9 @@ npm i -g stylep
 You can get as many patterns in one command as you like.
 
 ```shell
-syp use button
+# Install the button pattern!
+spi button
+
+# or uninstall it
+spu button
 ```
