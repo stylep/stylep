@@ -40,6 +40,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
 
 ### In Development
+* [grid](https://github.com/stylep/stylep-grid)
 * [accordion](https://github.com/stylep/stylep-accordion)
 * [toast](https://github.com/stylep/stylep-toast)
 * [tooltip](https://github.com/stylep/stylep-tooltip)
