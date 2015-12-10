@@ -23,3 +23,25 @@ spi button
 # or uninstall it
 spu button
 ```
+
+## Style Patterns
+You can use our pre-defined style patterns listed below, or you can get started making your own with our [style pattern template](https://github.com/stylep/stylep-template).
+
+### Containers
+* [card](https://github.com/stylep/stylep-card) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-card/blob/master/example/index.html)
+* [dropdown](https://github.com/stylep/stylep-dropdown) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-dropdown/blob/master/example/index.html)
+* [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
+
+### Form
+* [button](https://github.com/stylep/stylep-button) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-button/blob/master/example/index.html)
+* [menu-icon](https://github.com/stylep/stylep-menu-icon) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-menu-icon/blob/master/example/index.html)
+
+### Layout
+* [alignment](https://github.com/stylep/stylep-alignment)
+
+### In Development
+* [accordion](https://github.com/stylep/stylep-accordion)
+* [toast](https://github.com/stylep/stylep-toast)
+* [tooltip](https://github.com/stylep/stylep-tooltip)
+* [input](https://github.com/stylep/stylep-input)
+* [example](https://github.com/stylep/stylep-example)
