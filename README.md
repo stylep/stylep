@@ -40,9 +40,19 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
 
 ### In Development
-* [grid](https://github.com/stylep/stylep-grid)
 * [accordion](https://github.com/stylep/stylep-accordion)
+* [badge](https://github.com/stylep/stylep-badge)
+* [bar](https://github.com/stylep/stylep-bar)
+* [checkbox](https://github.com/stylep/stylep-checkbox)
+* [example](https://github.com/stylep/stylep-example)
+* [grid](https://github.com/stylep/stylep-grid)
+* [input](https://github.com/stylep/stylep-input)
+* [list](https://github.com/stylep/stylep-list)
+* [positioning](https://github.com/stylep/stylep-positioning)
+* [radio](https://github.com/stylep/stylep-radio)
+* [select](https://github.com/stylep/stylep-select)
+* [tabs](https://github.com/stylep/stylep-tabs)
 * [toast](https://github.com/stylep/stylep-toast)
 * [tooltip](https://github.com/stylep/stylep-tooltip)
-* [input](https://github.com/stylep/stylep-input)
-* [example](https://github.com/stylep/stylep-example)
+* [visibility](https://github.com/stylep/stylep-visibility)
+
