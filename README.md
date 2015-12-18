@@ -49,6 +49,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * [grid](https://github.com/stylep/stylep-grid)
 * [input](https://github.com/stylep/stylep-input)
 * [list](https://github.com/stylep/stylep-list)
+* [notification](https://github.com/stylep/stylep-notification)
 * [palette](https://github.com/stylep/stylep-palette)
 * [positioning](https://github.com/stylep/stylep-positioning)
 * [radio](https://github.com/stylep/stylep-radio)
