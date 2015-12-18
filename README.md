@@ -48,6 +48,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * [grid](https://github.com/stylep/stylep-grid)
 * [input](https://github.com/stylep/stylep-input)
 * [list](https://github.com/stylep/stylep-list)
+* [palette](https://github.com/stylep/stylep-palette)
 * [positioning](https://github.com/stylep/stylep-positioning)
 * [radio](https://github.com/stylep/stylep-radio)
 * [select](https://github.com/stylep/stylep-select)
@@ -55,4 +56,3 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * [toast](https://github.com/stylep/stylep-toast)
 * [tooltip](https://github.com/stylep/stylep-tooltip)
 * [visibility](https://github.com/stylep/stylep-visibility)
-
