@@ -22,15 +22,21 @@ var argv = yargs.usage("$0 command")
         .command("install", "installs style patterns to your project", function(yargs) {
                 shell.exec("npm install --save-dev " + searchString, function(err, stdout, stderr){});
         })
-        .alias("i", "install")
+        .command("i", "Shorthand for install", function(yargs) {
+                shell.exec("npm install --save-dev " + searchString, function(err, stdout, stderr){});
+        })
         .command("uninstall", "uninstalls style patterns from your project", function(yargs) {
                 shell.exec("npm uninstall --save-dev " + searchString, function(err, stdout, stderr){});
         })
-        .alias("u", "uninstall")
-        .command("list", "lists out all installed style patterns in your project", function(yargs) {
-                shell.exec("npm list --depth=0 2>/dev/null", function(err, stdout, stderr){});
+        .command("u", "Shorthand for uninstall", function(yargs) {
+                shell.exec("npm uninstall --save-dev " + searchString, function(err, stdout, stderr){});
         })
-        .alias("ls", "list")
+        .command("list", "lists out all installed style patterns in your project", function(yargs) {
+                shell.exec("npm list --depth=0 2>/dev/null | grep stylep", function(err, stdout, stderr){});
+        })
+        .command("ls", "Shorthand for ls", function(yargs) {
+                shell.exec("npm list --depth=0 2>/dev/null | grep stylep", function(err, stdout, stderr){});
+        })
         .help("h")
         .alias("h", "help")
         .argv;
