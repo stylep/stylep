@@ -18,11 +18,17 @@ You can get as many patterns in one command as you like.
 
 ```shell
 # Install the button pattern!
-spi button
+spm install button
+# or
+spm i button
 
 # or uninstall it
-spu button
+spm uninstall button
+# or
+spm u button
 ```
+
+You can also get a filtered listing of patterns installed with `spm list` or `spm ls`.
 
 ## Style Patterns
 You can use our pre-defined style patterns listed below, or you can get started making your own with our [style pattern template](https://github.com/stylep/stylep-template).
