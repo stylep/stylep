@@ -4,11 +4,11 @@
   "description": "Style patterns you can use for systematic design",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stylep/stylep.git"
+        "type": "git",
+        "url": "git+https://github.com/stylep/stylep.git"
   },
   "keywords": [
     "css",
@@ -19,14 +19,14 @@
   "author": "Stephen Way <stephen@stephenway.net> (http://stephenway.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stylep/stylep/issues"
+        "url": "https://github.com/stylep/stylep/issues"
   },
   "homepage": "https://github.com/stylep/stylep#readme",
   "dependencies": {
-    "shelljs": "^0.5.3"
+        "shelljs": "^0.5.3",
+        "yargs": "^3.31.0"
   },
   "bin": {
-    "spi": "bin/install.js",
-    "spu": "bin/uninstall.js"
+        "spm": "bin/spm.js"
   }
 }
