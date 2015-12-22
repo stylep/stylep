@@ -55,7 +55,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * [checkbox](https://github.com/stylep/stylep-checkbox)
 * [chip](https://github.com/stylep/stylep-chip)
 * [example](https://github.com/stylep/stylep-example)
-* [grid](https://github.com/stylep/stylep-grid)
+* :signal_strength: [grid](https://github.com/stylep/stylep-grid)
 * [input](https://github.com/stylep/stylep-input)
 * [list](https://github.com/stylep/stylep-list)
 * [notification](https://github.com/stylep/stylep-notification)
