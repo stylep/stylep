@@ -37,7 +37,7 @@ You can also get a filtered listing of patterns installed with `spm list` or `sp
 You can use our pre-defined style patterns listed below, or you can get started making your own with our [style pattern template](https://github.com/stylep/stylep-template).
 
 ### Containers
-* [card](https://github.com/stylep/stylep-card) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-card/blob/master/example/index.html)
+* :white_medium_square: [card](https://github.com/stylep/stylep-card) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-card/blob/master/example/index.html)
 * :arrow_down_small: [dropdown](https://github.com/stylep/stylep-dropdown) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-dropdown/blob/master/example/index.html)
 * [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
 
