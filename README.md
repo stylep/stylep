@@ -41,29 +41,35 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :arrow_down_small: [dropdown](https://github.com/stylep/stylep-dropdown) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-dropdown/blob/master/example/index.html)
 * :black_medium_square: [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
 
-### Form
+#### In Development
+* :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
+* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar)
+* :sparkles: [chip](https://github.com/stylep/stylep-chip)
+* :bookmark_tabs: [tabs](https://github.com/stylep/stylep-tabs)
+* :children_crossing: [notification](https://github.com/stylep/stylep-notification)
+* :art: [palette](https://github.com/stylep/stylep-palette)
+* :bread: [toast](https://github.com/stylep/stylep-toast)
+* :speech_balloon: [tooltip](https://github.com/stylep/stylep-tooltip)
+
+### Components
 * :white_square_button: [button](https://github.com/stylep/stylep-button) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-button/blob/master/example/index.html)
 * :hamburger: [menu-icon](https://github.com/stylep/stylep-menu-icon) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-menu-icon/blob/master/example/index.html)
+
+#### In Development
+* :large_blue_circle: [badge](https://github.com/stylep/stylep-badge)
+* :ballot_box_with_check: [checkbox](https://github.com/stylep/stylep-checkbox)
+* :black_nib: [input](https://github.com/stylep/stylep-input)
+* :memo: [list](https://github.com/stylep/stylep-list)
+* :radio_button: [radio](https://github.com/stylep/stylep-radio)
+* :three: [select](https://github.com/stylep/stylep-select)
 
 ### Layout
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
 * :signal_strength: [grid](https://github.com/stylep/stylep-grid)
 
-### In Development
-* :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
-* :large_blue_circle: [badge](https://github.com/stylep/stylep-badge)
-* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar)
-* :ballot_box_with_check: [checkbox](https://github.com/stylep/stylep-checkbox)
-* :sparkles: [chip](https://github.com/stylep/stylep-chip)
-* :thought_balloon: [example](https://github.com/stylep/stylep-example)
-* :black_nib: [input](https://github.com/stylep/stylep-input)
-* :memo: [list](https://github.com/stylep/stylep-list)
-* :children_crossing: [notification](https://github.com/stylep/stylep-notification)
-* :art: [palette](https://github.com/stylep/stylep-palette)
+#### In Development
 * :arrow_upper_right: [positioning](https://github.com/stylep/stylep-positioning)
-* :radio_button: [radio](https://github.com/stylep/stylep-radio)
-* :three: [select](https://github.com/stylep/stylep-select)
-* :bookmark_tabs: [tabs](https://github.com/stylep/stylep-tabs)
-* :bread: [toast](https://github.com/stylep/stylep-toast)
-* :speech_balloon: [tooltip](https://github.com/stylep/stylep-tooltip)
 * :sunglasses: [visibility](https://github.com/stylep/stylep-visibility)
+
+### Example Project in Development
+* :thought_balloon: [example](https://github.com/stylep/stylep-example)
