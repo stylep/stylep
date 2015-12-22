@@ -39,7 +39,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 ### Containers
 * :white_medium_square: [card](https://github.com/stylep/stylep-card) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-card/blob/master/example/index.html)
 * :arrow_down_small: [dropdown](https://github.com/stylep/stylep-dropdown) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-dropdown/blob/master/example/index.html)
-* [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
+* :black_medium_square: [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
 
 ### Form
 * :white_square_button: [button](https://github.com/stylep/stylep-button) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-button/blob/master/example/index.html)
