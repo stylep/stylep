@@ -49,7 +49,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
 
 ### In Development
-* [accordion](https://github.com/stylep/stylep-accordion)
+* :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
 * [badge](https://github.com/stylep/stylep-badge)
 * [bar](https://github.com/stylep/stylep-bar)
 * [checkbox](https://github.com/stylep/stylep-checkbox)
