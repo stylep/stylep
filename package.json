@@ -1,6 +1,6 @@
 {
   "name": "stylep",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Style patterns you can use for systematic design",
   "main": "index.js",
   "scripts": {
