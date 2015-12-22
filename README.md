@@ -47,6 +47,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 
 ### Layout
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
+* :signal_strength: [grid](https://github.com/stylep/stylep-grid)
 
 ### In Development
 * :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
@@ -55,7 +56,6 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :ballot_box_with_check: [checkbox](https://github.com/stylep/stylep-checkbox)
 * :sparkles: [chip](https://github.com/stylep/stylep-chip)
 * :thought_balloon: [example](https://github.com/stylep/stylep-example)
-* :signal_strength: [grid](https://github.com/stylep/stylep-grid)
 * :black_nib: [input](https://github.com/stylep/stylep-input)
 * :memo: [list](https://github.com/stylep/stylep-list)
 * :children_crossing: [notification](https://github.com/stylep/stylep-notification)
