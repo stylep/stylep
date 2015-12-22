@@ -64,8 +64,8 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :three: [select](https://github.com/stylep/stylep-select)
 
 ### Layout
-* :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment)
-* :signal_strength: [grid](https://github.com/stylep/stylep-grid)
+* :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-alignment/blob/master/example/index.html)
+* :signal_strength: [grid](https://github.com/stylep/stylep-grid) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-grid/blob/master/example/index.html)
 
 #### In Development
 * :arrow_upper_right: [positioning](https://github.com/stylep/stylep-positioning)
