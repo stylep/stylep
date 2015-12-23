@@ -43,7 +43,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 
 #### In Development
 * :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
-* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar)
+* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-bar/blob/master/example/index.html)
 * :sparkles: [chip](https://github.com/stylep/stylep-chip)
 * :bookmark_tabs: [tabs](https://github.com/stylep/stylep-tabs)
 * :children_crossing: [notification](https://github.com/stylep/stylep-notification)
