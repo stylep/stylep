@@ -37,13 +37,13 @@ You can also get a filtered listing of patterns installed with `spm list` or `sp
 You can use our pre-defined style patterns listed below, or you can get started making your own with our [style pattern template](https://github.com/stylep/stylep-template).
 
 ### Containers
+* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-bar/blob/master/example/index.html)
 * :white_medium_square: [card](https://github.com/stylep/stylep-card) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-card/blob/master/example/index.html)
 * :arrow_down_small: [dropdown](https://github.com/stylep/stylep-dropdown) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-dropdown/blob/master/example/index.html)
 * :black_medium_square: [modal](https://github.com/stylep/stylep-modal) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-modal/blob/master/example/index.html)
 
 #### In Development
 * :small_red_triangle_down: [accordion](https://github.com/stylep/stylep-accordion)
-* :heavy_minus_sign: [bar](https://github.com/stylep/stylep-bar) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-bar/blob/master/example/index.html)
 * :sparkles: [chip](https://github.com/stylep/stylep-chip)
 * :bookmark_tabs: [tabs](https://github.com/stylep/stylep-tabs)
 * :children_crossing: [notification](https://github.com/stylep/stylep-notification)
