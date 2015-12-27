@@ -73,3 +73,6 @@ You can use our pre-defined style patterns listed below, or you can get started 
 
 ### Example Project in Development
 * :thought_balloon: [example](https://github.com/stylep/stylep-example)
+
+## License
+This project is licensed under the MIT [license](LICENSE).
