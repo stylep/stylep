@@ -1,7 +1,7 @@
 # stylep
 
 [![Join the chat at https://gitter.im/stylep/stylep](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stylep/stylep?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<img src=https://avatars1.githubusercontent.com/u/16121328?v=3&s=200 title=stylep-button align=right height=95>
+<img src=https://avatars1.githubusercontent.com/u/16121328?v=3&s=200 title=stylep align=right height=95>
 
 Design patterns are the cornerstone to systematic design, letting you focus on iteration and perfection. Stylep (Style Patterns) let you use common design patterns and components that have already been thought out and tested without making any design decisions before you start. Stop re-inventing wheels, and repainting the chrome, just use what you need and style accordingly.
 
