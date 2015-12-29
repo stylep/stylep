@@ -28,7 +28,7 @@ var argv = yargs.usage("$0 command")
         .command("uninstall", "uninstalls style patterns from your project", function(yargs) {
                 shell.exec("npm uninstall --save-dev " + searchString, function(err, stdout, stderr){});
         })
-        .command("u", "Shorthand for uninstall", function(yargs) {
+        .command("un", "Shorthand for uninstall", function(yargs) {
                 shell.exec("npm uninstall --save-dev " + searchString, function(err, stdout, stderr){});
         })
         .command("list", "lists out all installed style patterns in your project", function(yargs) {
