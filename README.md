@@ -29,6 +29,9 @@ spm i button
 spm uninstall button
 # or
 spm un button
+
+# or start a new pattern
+spm new pattern-name
 ```
 
 You can also get a filtered listing of patterns installed with `spm list` or `spm ls`.
