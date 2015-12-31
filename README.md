@@ -7,6 +7,9 @@ Design patterns are the cornerstone to systematic design, letting you focus on i
 
 This is not a framework, and it never will be. Stylep is an ecosystem of simple design patterns written in PostCSS, provided by the open source community. If anything, this is a higher level set of features you could use to make up custom frameworks for your projects.
 
+:package: **9** total patterns | :star: [Changelog](https://github.com/stylep/stylep/releases)
+--- | ---
+
 ## Install
 Using NPM you can install the style pattern manager (`spm`) command:
 
@@ -16,19 +19,17 @@ npm install -g stylep
 
 If you do not have `node` and `npm` installed, [go here to install](https://nodejs.org/en/), then repeat the last step.
 
+Alternatively, if you don’t want to install `node`, then add the spm executable to your `$PATH`.
+
 ## Usage
 You can get as many patterns in one command as you like.
 
 ```shell
 # Install the button pattern!
 spm install button
-# or
-spm i button
 
 # or uninstall it
 spm uninstall button
-# or
-spm un button
 
 # or start a new pattern
 spm new pattern-name
