@@ -56,7 +56,7 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :speech_balloon: [tooltip](https://github.com/stylep/stylep-tooltip)
 
 ### Components
-* :large_blue_circle: [badge](https://github.com/stylep/stylep-badge) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-badge/blob/master/example/index.html)
+* :pill: [badge](https://github.com/stylep/stylep-badge) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-badge/blob/master/example/index.html)
 * :white_square_button: [button](https://github.com/stylep/stylep-button) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-button/blob/master/example/index.html)
 * :hamburger: [menu-icon](https://github.com/stylep/stylep-menu-icon) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-menu-icon/blob/master/example/index.html)
 
