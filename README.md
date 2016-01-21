@@ -61,11 +61,10 @@ You can use our pre-defined style patterns listed below, or you can get started 
 * :hamburger: [menu-icon](https://github.com/stylep/stylep-menu-icon) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-menu-icon/blob/master/example/index.html)
 
 #### In Development
-* :ballot_box_with_check: [checkbox](https://github.com/stylep/stylep-checkbox)
 * :black_nib: [input](https://github.com/stylep/stylep-input)
 * :memo: [list](https://github.com/stylep/stylep-list)
-* :radio_button: [radio](https://github.com/stylep/stylep-radio)
 * :three: [select](https://github.com/stylep/stylep-select)
+* :ballot_box_with_check: [toggle](https://github.com/stylep/stylep-toggle)
 
 ### Layout
 * :left_right_arrow: [alignment](https://github.com/stylep/stylep-alignment) / [example](http://htmlpreview.github.io/?https://github.com/stylep/stylep-alignment/blob/master/example/index.html)
